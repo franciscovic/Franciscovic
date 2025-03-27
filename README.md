@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**franciscovic/Franciscovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mi Foto](URL_DE_TU_IMAGEN)
 
-Here are some ideas to get you started:
+## Datos Personales
+- **Edad:** 26 Años  
+- **Estado Civil:** Soltero 
+- **Hijos:** No tengo 
+- **Ocupacion:** Envios pedidos ya y estudiante de la un paz   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes de programación preferidos
+- JavaScript
+- Python
+
+
